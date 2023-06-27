@@ -1,0 +1,62 @@
+.sideLib {
+  text-align: center;
+}
+
+
+.libImage{
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+  margin-top: 0px;
+  height: auto;
+  width: 1300px;
+}
+.lib{
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 250px;
+  padding: 30px;
+  margin-top: -60px;
+}
+.tab{
+  margin-left: 250px;
+  padding: 30px;
+}
+table,th,td{
+  border: 1px solid blue;
+  padding: 10px;
+  border-collapse: collapse;
+  text-align: center;
+}
+.bookh{
+  margin-left: 280px;
+  margin-top: -50px;
+  margin-bottom: -20px;
+}
+.abt{
+  margin-top: 50px;
+  margin-left: 250px;
+  padding: 30px;
+  
+}
+.add-user{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-left: 380px;
+  width: 700px;
+  padding: 30px;
+  gap: 10px;
+}
+.edit-user{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-left: 380px;
+  width: 700px;
+  padding: 30px;
+}
